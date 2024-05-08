@@ -10,7 +10,7 @@ The project includes the following datasets:
 -   `small_area.geojson`: GeoJSON file for small areas.
 -   `deprivation.xlsx`: Deprivation indices.
 
-These files (as well as the combine and lookup scripts) are sourced from the [Ward-Deprivation Github](https://github.com/JacobWeinbren/Ward-Deprivation).
+These files (as well as the origin for the combine and lookup scripts) are sourced from the [Ward-Deprivation Github](https://github.com/JacobWeinbren/Ward-Deprivation).
 
 ## Data Sources
 
