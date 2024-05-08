@@ -1,0 +1,1543 @@
+Ward Code,Ward Name,Council Name,Defending,Leading
+E05007562,buckingham,adur,Con,Lab
+E05007563,churchill,adur,Con,Lab
+E05007564,cokeham,adur,Con,Lab
+E05007565,eastbrook,adur,Con,Lab
+E05007566,hillside,adur,Con,Lab
+E05007567,manor,adur,Con,Con
+E05007568,marine,adur,Ind,Ind
+E05007569,mash barn,adur,Lab,Lab
+E05007570,peverel,adur,Con,Lab
+E05007573,southlands,adur,Lab,Lab
+E05007574,southwick green,adur,Lab,Lab
+E05007571,st marys,adur,Lab,Lab
+E05007572,st nicolas,adur,Grn,Grn
+E05007575,widewater,adur,Con,Lab
+E05014696,crichsouth wingfield,amber valley,Con,Con
+E05000976,central,barnsley,Lab,Lab
+E05000977,cudworth,barnsley,Lab,Lab
+E05000978,darfield,barnsley,Lab,Lab
+E05000979,darton east,barnsley,LDem,LDem
+E05000980,darton west,barnsley,Lab,Lab
+E05000981,dearne north,barnsley,Lab,Lab
+E05000982,dearne south,barnsley,Lab,Lab
+E05000983,dodworth,barnsley,LDem,LDem
+E05000984,hoyland milton,barnsley,Lab,Lab
+E05000985,kingstone,barnsley,Lab,LDem
+E05000986,monk bretton,barnsley,Lab,Lab
+E05000987,north east,barnsley,Lab,Lab
+E05000988,old town,barnsley,Lab,Lab
+E05000989,penistone east,barnsley,Con,Lab
+E05000990,penistone west,barnsley,LDem,LDem
+E05000991,rockingham,barnsley,Lab,Lab
+E05000992,royston,barnsley,Lab,Lab
+E05000993,st helens,barnsley,Lab,Lab
+E05000994,stairfoot,barnsley,Lab,Lab
+E05000995,wombwell,barnsley,Lab,Lab
+E05000996,worsbrough,barnsley,Lab,Lab
+E05013078,basingupton grey,basingstokedeane,Con,Ind
+E05013079,bramley,basingstokedeane,Con,IndGrp
+E05013080,brighton hill,basingstokedeane,Lab,LDem
+E05013081,brookvalekings furlong,basingstokedeane,Con,Con
+E05013082,chineham,basingstokedeane,Con,Grn
+E05013083,eastropgrove,basingstokedeane,LDem,LDem
+E05013084,evingar,basingstokedeane,Con,Con
+E05013085,hatch warrenbeggarwood,basingstokedeane,Con,Oth
+E05013086,kempshottbuckskin,basingstokedeane,Con,Con
+E05013087,norden,basingstokedeane,IndGrp,IndGrp
+E05013088,oakleythe candovers,basingstokedeane,Con,IndGrp
+E05013089,popley,basingstokedeane,Lab,Lab
+E05013090,sherborne st johnrooksdown,basingstokedeane,Con,Con
+E05013091,south ham,basingstokedeane,Lab,Lab
+E05013092,tadleypamber,basingstokedeane,Con,LDem
+E05013093,tadley north kingsclerebaughurst,basingstokedeane,Con,LDem
+E05013094,whitchurch overtonlaverstoke,basingstokedeane,IndGrp,IndGrp
+E05013095,winkleburymanydown,basingstokedeane,Con,Lab
+E05014513,riverfield,bedford,LDem,LDem
+E05011128,bournbrookselly park,birmingham,Lab,Lab
+E05011508,audleyqueens park,blackburn with darwen,Con,Ind
+E05011509,bastwelldaisyfield,blackburn with darwen,Lab,Ind
+E05011510,billingebeardwood,blackburn with darwen,Lab,Ind
+E05011511,blackburn central,blackburn with darwen,Lab,Ind
+E05011512,blackburn southlower darwen,blackburn with darwen,Con,Lab
+E05011513,blackburn south east,blackburn with darwen,Lab,Lab
+E05011514,darwen east,blackburn with darwen,Lab,Lab
+E05011515,darwen south,blackburn with darwen,Con,Lab
+E05011516,darwen west,blackburn with darwen,Lab,Lab
+E05011517,ewood,blackburn with darwen,Con,Lab
+E05011518,little harwoodwhitebirk,blackburn with darwen,Lab,Ind
+E05011519,livesey with pleasington,blackburn with darwen,Con,Con
+E05011520,mill hillmoorgate,blackburn with darwen,Lab,Lab
+E05011521,roe lee,blackburn with darwen,Lab,Ind
+E05011522,shear browcorporation park,blackburn with darwen,Lab,Ind
+E05011523,wensley fold,blackburn with darwen,Lab,Ind
+E05011524,west pennine,blackburn with darwen,Con,Con
+E05014818,astley bridge,bolton,Con,Con
+E05014819,bradshaw,bolton,Con,Lab
+E05014820,breightmet,bolton,Lab,Lab
+E05014821,bromley cross,bolton,Con,Con
+E05014822,farnworth north,bolton,Lab,Lab
+E05014823,farnworth south,bolton,IndGrp,IndGrp
+E05014824,great lever,bolton,Lab,Lab
+E05014825,halliwell,bolton,Lab,Grn
+E05014826,heaton lostockchew moor,bolton,Con,Con
+E05014827,horwich north,bolton,IndGrp,IndGrp
+E05014828,horwich southblackrod,bolton,IndGrp,IndGrp
+E05014829,hulton,bolton,Lab,Lab
+E05014830,kearsley,bolton,IndGrp,IndGrp
+E05014831,little leverdarcy lever,bolton,Con,Lab
+E05014832,queens parkcentral,bolton,Lab,Lab
+E05014833,rumworth,bolton,Lab,Ind
+E05014834,smithills,bolton,LDem,LDem
+E05014835,tonge with the haulgh,bolton,Lab,Lab
+E05014836,westhoughton northhunger hill,bolton,LDem,LDem
+E05014837,westhoughton south,bolton,Lab,Lab
+E05012656,canford cliffs,bournemouth christchurchpoole,Con,Con
+E05001341,baildon,bradford,Con,Con
+E05001342,bingley,bradford,Lab,Lab
+E05001343,bingley rural,bradford,Con,Con
+E05001344,boltonundercliffe,bradford,Lab,Ind
+E05001345,bowlingbarkerend,bradford,Lab,Ind
+E05001346,bradford moor,bradford,LDem,LDem
+E05001347,city,bradford,Lab,Ind
+E05001348,claytonfairweather green,bradford,Lab,Lab
+E05001349,craven,bradford,Con,Grn
+E05001350,eccleshill,bradford,LDem,LDem
+E05001351,great horton,bradford,Lab,Lab
+E05001352,heaton,bradford,Lab,Ind
+E05001353,idlethackley,bradford,LDem,LDem
+E05001354,ilkley,bradford,Ind,Grn
+E05001355,keighley central,bradford,Lab,Lab
+E05001356,keighley east,bradford,Lab,Lab
+E05001357,keighley west,bradford,Con,Lab
+E05001358,little horton,bradford,Ind,Ind
+E05001359,manningham,bradford,Lab,Ind
+E05001360,queensbury,bradford,Con,Ind
+E05001361,royds,bradford,Lab,Lab
+E05001362,shipley,bradford,Grn,Grn
+E05001363,thorntonallerton,bradford,Lab,Lab
+E05001364,toller,bradford,Lab,Ind
+E05001365,tong,bradford,Grn,Grn
+E05001366,wharfedale,bradford,Con,Con
+E05001367,wibsey,bradford,Lab,Lab
+E05001368,windhillwrose,bradford,Lab,Lab
+E05001369,worth valley,bradford,Con,Con
+E05001370,wyke,bradford,Con,Lab
+E05010248,hermitage,breckland,LDem,Con
+E05015405,kemptown,brightonhove,Lab,
+E05015410,queens park,brightonhove,Lab,
+E05014005,shortlandspark langley,bromley,Con,Con
+E05009002,broxbournehoddesdon south,broxbourne,Con,Con
+E05009003,cheshunt north,broxbourne,Con,Con
+E05009004,cheshunt souththeobalds,broxbourne,Con,Con
+E05009005,flamstead end,broxbourne,Con,Con
+E05009006,goffs oak,broxbourne,Con,Con
+E05009007,hoddesdon north,broxbourne,Con,Con
+E05009008,hoddesdon townrye park,broxbourne,Con,Con
+E05009009,rosedalebury green,broxbourne,Con,Con
+E05009010,waltham cross,broxbourne,Lab,Lab
+E05009011,wormleyturnford,broxbourne,Con,Con
+E05010514,attenboroughchilwell east,broxtowe,Lab,Lab
+E05005150,bank hall,burnley,Lab,Ind
+E05005151,briercliffe,burnley,LDem,LDem
+E05005152,brunshaw,burnley,Grn,Lab
+E05005153,cliviger with worsthorne,burnley,Grn,Con
+E05005154,coal clough with deerplay,burnley,LDem,LDem
+E05005155,daneshouse with stoneyholme,burnley,Lab,Ind
+E05005156,gannow,burnley,IndGrp,Lab
+E05005157,gawthorpe,burnley,Con,Lab
+E05005158,hapton with park,burnley,Con,Con
+E05005159,lanehead,burnley,Lab,Lab
+E05005160,queensgate,burnley,Lab,Ind
+E05005161,rosegrove with lowerhouse,burnley,Lab,Lab
+E05005162,rosehill with burnley wood,burnley,Con,Lab
+E05005163,trinity,burnley,Grn,Grn
+E05005164,whittlefield with ightenhill,burnley,Con,Con
+E05014152,besses,bury,Lab,Lab
+E05014153,bury east,bury,Lab,Lab
+E05014154,bury west,bury,Con,Con
+E05014155,elton,bury,Lab,Lab
+E05014156,holyrood,bury,Lab,Lab
+E05014157,moorside,bury,Lab,Lab
+E05014158,north manor,bury,Con,Lab
+E05014159,pilkington park,bury,Lab,Lab
+E05014160,radcliffe east,bury,IndGrp,IndGrp
+E05014161,radcliffe northainsworth,bury,Con,IndGrp
+E05014162,radcliffe west,bury,IndGrp,IndGrp
+E05014163,ramsbottom,bury,Lab,Lab
+E05014164,redvales,bury,Lab,Lab
+E05014165,sedgley,bury,Lab,Lab
+E05014166,st marys,bury,Lab,Lab
+E05014167,tottington,bury,Con,Con
+E05014168,unsworth,bury,Lab,Lab
+E05001371,brighouse,calderdale,Con,Con
+E05001372,calder,calderdale,Lab,Lab
+E05001373,elland,calderdale,Con,Con
+E05001374,greetlandstainland,calderdale,LDem,LDem
+E05001375,hipperholmelightcliffe,calderdale,Con,Con
+E05001376,illingworthmixenden,calderdale,Con,Lab
+E05001377,luddendenfoot,calderdale,Lab,Lab
+E05001378,northowramshelf,calderdale,Con,Grn
+E05001379,ovenden,calderdale,Lab,Lab
+E05001380,park,calderdale,Lab,Oth
+E05001381,rastrick,calderdale,Con,Lab
+E05001382,ryburn,calderdale,Con,Lab
+E05001383,skircoat,calderdale,Lab,Lab
+E05001384,sowerby bridge,calderdale,Lab,Lab
+E05001385,todmorden,calderdale,Lab,Lab
+E05001386,town,calderdale,Lab,Lab
+E05001387,warley,calderdale,LDem,LDem
+E05013050,abbey,cambridge,Grn,Grn
+E05013051,arbury,cambridge,Lab,Lab
+E05013052,castle,cambridge,Lab,Lab
+E05013053,cherry hinton,cambridge,Lab,Lab
+E05013054,coleridge,cambridge,Lab,Lab
+E05013055,east chesterton,cambridge,Lab,Lab
+E05013056,kings hedges,cambridge,Lab,Lab
+E05013057,market,cambridge,LDem,LDem
+E05013058,newnham,cambridge,LDem,Grn
+E05013059,petersfield,cambridge,Lab,Lab
+E05013060,queeniths,cambridge,Ind,LDem
+E05013061,romsey,cambridge,Lab,Lab
+E05013062,trumpington,cambridge,LDem,LDem
+E05013063,west chesterton,cambridge,Lab,Lab
+E05013657,frognal,camden,Con,Con
+E05014673,loughborough east,charnwood,Lab,Lab
+E05011348,adderbury bloxhambodicote,cherwell,Con,LDem
+E05011349,banbury calthorpeeasington,cherwell,Con,Con
+E05010921,banbury crossneithrop,cherwell,Lab,Lab
+E05010922,banbury grimsburyhightown,cherwell,Lab,Lab
+E05010923,banbury hardwick,cherwell,Con,Lab
+E05010924,banbury ruscote,cherwell,Lab,Lab
+E05010925,bicester east,cherwell,Con,LDem
+E05010926,bicester northcaversfield,cherwell,Con,LDem
+E05012968,bicester southambrosden,cherwell,Con,LDem
+E05010928,bicester west,cherwell,Ind,Ind
+E05010929,cropredy sibfordswroxton,cherwell,Con,LDem
+E05010930,deddington,cherwell,Con,Con
+E05012969,fringfordheyfords,cherwell,Con,LDem
+E05010932,kidlington east,cherwell,Con,Grn
+E05010933,kidlington west,cherwell,LDem,LDem
+E05010934,launtonotmoor,cherwell,Con,LDem
+E05012253,wolverham,cheshire westchester,Lab,Lab
+E05013064,adlingtonanderton,chorley,Lab,Lab
+E05013065,buckshawwhittle,chorley,Con,Lab
+E05013066,chorley east,chorley,Lab,Lab
+E05013069,chorley northastley,chorley,Lab,Lab
+E05013067,chorley north east,chorley,Lab,Lab
+E05013068,chorley north west,chorley,Lab,Lab
+E05013070,chorley south eastheath charnock,chorley,Lab,Lab
+E05013071,chorley south west,chorley,Lab,Lab
+E05013072,clayton east brindlehoghton,chorley,Con,Lab
+E05013073,clayton westcuerden,chorley,Lab,Lab
+E05013074,coppull,chorley,Lab,Lab
+E05013075,croston mawdesleyeuxton south,chorley,Con,Con
+E05013076,eccleston heskincharnock richard,chorley,Lab,Lab
+E05013077,euxton,chorley,Lab,Lab
+E05010827,berechurch,colchester,Lab,Lab
+E05010828,castle,colchester,Grn,Grn
+E05010829,greenstead,colchester,Lab,Lab
+E05010830,highwoods,colchester,Con,LDem
+E05010831,lexdenbraiswick,colchester,Con,Con
+E05010832,marks teylayer,colchester,Con,Con
+E05010833,merseapyefleet,colchester,Con,Con
+E05010834,mile end,colchester,LDem,LDem
+E05010835,new townchrist church,colchester,Lab,Lab
+E05010836,old heaththe hythe,colchester,Lab,Lab
+E05010837,prettygate,colchester,Con,Con
+E05010838,rural north,colchester,Con,Con
+E05010840,shrub end,colchester,LDem,Lab
+E05010839,st annesst johns,colchester,LDem,LDem
+E05010841,stanway,colchester,Con,Con
+E05010842,tiptree,colchester,Con,Con
+E05010843,wivenhoe,colchester,LDem,LDem
+E05009065,horden,county durham,Lab,Lab
+E05001218,bablake,coventry,Con,Lab
+E05001219,binleywillenhall,coventry,Lab,Lab
+E05001220,cheylesmore,coventry,Con,Con
+E05001221,earlsdon,coventry,Lab,Lab
+E05001222,foleshill,coventry,Lab,Lab
+E05001223,henley,coventry,Lab,Lab
+E05001224,holbrook,coventry,Lab,Lab
+E05001225,longford,coventry,Lab,Lab
+E05001226,lower stoke,coventry,Lab,Lab
+E05001227,radford,coventry,Lab,Lab
+E05001229,sherbourne,coventry,Con,Lab
+E05001228,st michaels,coventry,Lab,Lab
+E05001230,upper stoke,coventry,Lab,Lab
+E05001231,wainbody,coventry,Con,Con
+E05001232,westwood,coventry,Con,Lab
+E05001233,whoberley,coventry,Lab,Lab
+E05001234,woodlands,coventry,Con,Con
+E05001235,wyken,coventry,Lab,Lab
+E05012914,bewbushnorth broadfield,crawley,Lab,Lab
+E05012915,broadfield,crawley,Lab,Lab
+E05012917,gossops greennorth east broadfield,crawley,Con,Lab
+E05012918,ifield,crawley,Con,Lab
+E05012919,langley greentushmore,crawley,Lab,Lab
+E05012920,maidenbower,crawley,Con,Con
+E05012921,northgatewest green,crawley,Lab,Lab
+E05012922,pound hill northforge wood,crawley,Con,Lab
+E05012923,pound hill southworth,crawley,Con,Con
+E05012924,southgate,crawley,Con,Lab
+E05012925,three bridges,crawley,Lab,Lab
+E05012926,tilgate,crawley,Con,Lab
+E05011475,park hillwhitgift,croydon,Con,Con
+E05011489,woodside,croydon,Lab,Lab
+E05012682,beacon,dorset,Con,Con
+E05012683,beaminster,dorset,Con,Con
+E05012684,blackmore vale,dorset,Con,Con
+E05012685,blandford,dorset,Con,Con
+E05012687,chalk valleys,dorset,Con,Con
+E05012688,charminster st marys,dorset,LDem,LDem
+E05012690,chickerell,dorset,Con,LDem
+E05012691,colehillwimborne minster east,dorset,LDem,LDem
+E05012692,corfe mullen,dorset,LDem,LDem
+E05012693,cranbornealderholt,dorset,LDem,LDem
+E05012694,cranborne chase,dorset,Con,Con
+E05012695,crossways,dorset,LDem,LDem
+E05012696,dorchester east,dorset,LDem,LDem
+E05012697,dorchester poundbury,dorset,LDem,LDem
+E05012698,dorchester west,dorset,LDem,IndGrp
+E05012700,ferndown north,dorset,Con,Con
+E05012701,ferndown south,dorset,Con,Con
+E05012702,gillingham,dorset,Con,Con
+E05012703,hill fortsupper tarrants,dorset,Con,Con
+E05012704,littlemoorpreston,dorset,Con,Con
+E05012705,lymecharmouth,dorset,Con,Grn
+E05012706,lytchett matraversupton,dorset,Con,LDem
+E05012708,melcombe regis,dorset,Grn,Grn
+E05012709,portland,dorset,Ind,IndGrp
+E05012710,puddletownlower winterborne,dorset,Con,Con
+E05012711,radipole,dorset,LDem,LDem
+E05012712,rodwellwyke,dorset,Grn,Grn
+E05012714,shaftesbury town,dorset,LDem,LDem
+E05012715,sherborne east,dorset,LDem,LDem
+E05012716,sherborne rural,dorset,LDem,LDem
+E05012717,sherborne west,dorset,LDem,LDem
+E05012718,south east purbeck,dorset,Con,LDem
+E05012713,st leonardsst ives,dorset,Con,Con
+E05012719,stalbridgemarnhull,dorset,Con,Con
+E05012720,stourallen vale,dorset,Con,LDem
+E05012721,sturminster newton,dorset,Con,Con
+E05012722,swanage,dorset,Con,Con
+E05012723,upweybroadwey,dorset,LDem,LDem
+E05012724,verwood,dorset,Con,Con
+E05012725,wareham,dorset,LDem,LDem
+E05012726,west moorsthree legged cross,dorset,Con,Con
+E05012727,west parley,dorset,Con,Con
+E05012728,west purbeck,dorset,Con,LDem
+E05012729,westham,dorset,LDem,LDem
+E05012730,wimborne minster,dorset,LDem,LDem
+E05012731,winterbornebroadmayne,dorset,LDem,LDem
+E05012732,winterborne north,dorset,Con,LDem
+E05012733,yetminster,dorset,Con,LDem
+E05011791,exmouth brixington,east devon,Con,Con
+E05011187,bishopstoke,eastleigh,Ind,Ind
+E05011188,botley,eastleigh,LDem,LDem
+E05011189,bursledonhound north,eastleigh,LDem,LDem
+E05011190,chandlers ford,eastleigh,LDem,LDem
+E05011191,eastleigh central,eastleigh,LDem,LDem
+E05011192,eastleigh north,eastleigh,LDem,LDem
+E05011193,eastleigh south,eastleigh,LDem,LDem
+E05011194,fair oakhorton heath,eastleigh,Con,Con
+E05011195,hamblenetley,eastleigh,LDem,LDem
+E05011196,hedge end north,eastleigh,LDem,LDem
+E05011197,hedge end south,eastleigh,LDem,LDem
+E05011198,hiltingbury,eastleigh,LDem,LDem
+E05011074,claygate,elmbridge,LDem,Ind
+E05011075,cobhamdownside,elmbridge,Con,Con
+E05011076,esher,elmbridge,Res,Res
+E05011077,hersham village,elmbridge,Con,LDem
+E05011078,hinchley woodweston green,elmbridge,Res,Res
+E05011079,long ditton,elmbridge,LDem,LDem
+E05011080,molesey east,elmbridge,Res,LDem
+E05011081,molesey west,elmbridge,Res,Res
+E05011082,oatlandsburwood park,elmbridge,Con,Con
+E05011083,oxshottstoke dabernon,elmbridge,Con,Con
+E05011084,thames ditton,elmbridge,Res,Res
+E05011085,walton central,elmbridge,Res,LDem
+E05011086,walton north,elmbridge,Con,LDem
+E05011087,walton south,elmbridge,Con,LDem
+E05011088,weybridge riverside,elmbridge,LDem,LDem
+E05011089,weybridge st georges hill,elmbridge,IndGrp,IndGrp
+E05011011,alphington,exeter,Lab,Lab
+E05011012,duryardst james,exeter,Lab,LDem
+E05011013,exwick,exeter,Lab,Lab
+E05011014,heavitree,exeter,Lab,Ind
+E05011015,mincinglakewhipton,exeter,Lab,Lab
+E05011016,newtownst leonards,exeter,Lab,Grn
+E05011017,pennsylvania,exeter,Lab,Lab
+E05011018,pinhoe,exeter,Lab,Lab
+E05011019,priory,exeter,Lab,Lab
+E05011020,st davids,exeter,Grn,Grn
+E05011021,st loyes,exeter,Con,Con
+E05011022,st thomas,exeter,Lab,Lab
+E05011023,topsham,exeter,Con,Lab
+E05001067,birtley,gateshead,Lab,LDem
+E05001068,blaydon,gateshead,Lab,Lab
+E05001069,bridges,gateshead,Lab,Lab
+E05009313,chopwellrowlands gill,gateshead,Lab,Lab
+E05001071,chowdene,gateshead,Lab,Lab
+E05001072,crawcrookgreenside,gateshead,Lab,Lab
+E05001073,deckham,gateshead,Lab,Lab
+E05001074,dunstonteams,gateshead,Lab,Lab
+E05001075,dunston hillwhickham east,gateshead,LDem,LDem
+E05001076,felling,gateshead,Lab,Lab
+E05001077,high fell,gateshead,Lab,Lab
+E05001078,lamesley,gateshead,Lab,Lab
+E05001079,lobley hillbensham,gateshead,Lab,Lab
+E05001080,low fell,gateshead,LDem,LDem
+E05001081,pelawheworth,gateshead,LDem,LDem
+E05001082,ryton crookhillstella,gateshead,Lab,Lab
+E05001083,saltwell,gateshead,Lab,Lab
+E05001084,wardleyleam lane,gateshead,Lab,Lab
+E05001085,whickham north,gateshead,LDem,LDem
+E05001086,whickham southsunniside,gateshead,LDem,LDem
+E05001087,windy nookwhitehills,gateshead,Lab,Lab
+E05001088,winlatonhigh spen,gateshead,Lab,Lab
+E05010950,abbeydale,gloucester,Con,Con
+E05010951,abbeymead,gloucester,Con,Con
+E05010952,barnwood,gloucester,LDem,LDem
+E05010953,bartontredworth,gloucester,Con,Con
+E05010954,coney hill,gloucester,Con,Lab
+E05010955,elmbridge,gloucester,LDem,LDem
+E05010956,grange,gloucester,Con,Con
+E05010957,hucclecote,gloucester,LDem,LDem
+E05010958,kingsholmwotton,gloucester,LDem,LDem
+E05010959,kingsway,gloucester,Con,Lab
+E05010960,longlevens,gloucester,Con,LDem
+E05010962,moreland,gloucester,Con,Lab
+E05010963,podsmead,gloucester,LDem,LDem
+E05010964,quedgeley fieldcourt,gloucester,Con,Con
+E05010965,quedgeley severn vale,gloucester,Con,LDem
+E05010966,tuffley,gloucester,Con,LDem
+E05010967,westgate,gloucester,Con,LDem
+E05014138,alverstoke,gosport,Con,Con
+E05014139,anglesey,gosport,Con,Con
+E05014140,bridgemary,gosport,LDem,LDem
+E05014141,brockhurstprivett,gosport,LDem,LDem
+E05014142,elson,gosport,LDem,LDem
+E05014143,forton,gosport,LDem,LDem
+E05014144,grangealver valley,gosport,Con,Con
+E05014145,harboursidetown,gosport,Lab,Lab
+E05014146,hardway,gosport,LDem,LDem
+E05014147,lee east,gosport,Con,LDem
+E05014148,lee west,gosport,Con,Con
+E05014149,leeslandnewtown,gosport,LDem,LDem
+E05014150,peel common,gosport,Con,Con
+E05014151,rownerholbrook,gosport,LDem,LDem
+E05009371,de beauvoir,hackney,Lab,Lab
+E05009377,hoxton eastshoreditch,hackney,Lab,Lab
+E05013169,appleton,halton,Lab,Lab
+E05013170,bankfield,halton,Lab,Lab
+E05013171,beechwoodheath,halton,LDem,LDem
+E05013172,birchfield,halton,Lab,Lab
+E05013173,bridgewater,halton,Lab,Lab
+E05013174,centralwest bank,halton,Lab,Lab
+E05013175,daresbury mooresandymoor,halton,Con,Lab
+E05013176,ditton hale villagehalebank,halton,Lab,Lab
+E05013177,farnworth,halton,Lab,Lab
+E05013178,grange,halton,Lab,Lab
+E05013179,halton castle,halton,Lab,Lab
+E05013180,halton lea,halton,Lab,Lab
+E05013181,halton view,halton,Lab,Lab
+E05013182,highfield,halton,Lab,Lab
+E05013183,hough green,halton,Lab,Lab
+E05013184,merseyweston,halton,Lab,Lab
+E05013185,norton north,halton,Lab,Lab
+E05013186,norton southpreston brook,halton,Lab,Lab
+E05009352,blackwaterhawley,hart,LDem,LDem
+E05009353,crookham east,hart,IndGrp,IndGrp
+E05009354,crookham westewshot,hart,IndGrp,IndGrp
+E05009355,fleet central,hart,Con,IndGrp
+E05009356,fleet east,hart,Con,LDem
+E05009357,fleet west,hart,Con,Con
+E05009358,hartley wintney,hart,Con,Con
+E05009359,hook,hart,Con,Con
+E05009360,odiham,hart,Con,Con
+E05009361,yateley east,hart,LDem,LDem
+E05009362,yateley west,hart,LDem,LDem
+E05013038,burn valley,hartlepool,Con,Lab
+E05013039,de bruce,hartlepool,Con,Lab
+E05013040,fensgreatham,hartlepool,Ind,Ind
+E05013041,foggy furze,hartlepool,Ind,Lab
+E05013042,hart,hartlepool,Con,Lab
+E05013043,headlandharbour,hartlepool,Con,Lab
+E05013044,manor house,hartlepool,Con,Lab
+E05013045,rossmere,hartlepool,Con,Lab
+E05013046,rural west,hartlepool,Con,Con
+E05013047,seaton,hartlepool,Ind,Ind
+E05013048,throston,hartlepool,Ind,Lab
+E05013049,victoria,hartlepool,Lab,Lab
+E05011201,ashdown,hastings,Con,Con
+E05011202,baird,hastings,Con,Grn
+E05011203,braybrooke,hastings,Lab,Grn
+E05011204,castle,hastings,Lab,Grn
+E05011205,central st leonards,hastings,Lab,Grn
+E05011206,conquest,hastings,Con,Con
+E05011207,gensing,hastings,Lab,Grn
+E05011208,hollington,hastings,Lab,Lab
+E05011209,maze hill,hastings,Con,Grn
+E05011210,old hastings,hastings,Grn,Grn
+E05011211,ore,hastings,Con,Grn
+E05011213,silverhill,hastings,Con,Lab
+E05011212,st helens,hastings,Con,Lab
+E05011214,tressell,hastings,Lab,Grn
+E05011215,west st leonards,hastings,Con,Lab
+E05011216,wishing tree,hastings,Lab,Lab
+E05013571,hillingdon east,hillingdon,Con,Con
+E05013608,brentford west,hounslow,Lab,Lab
+E05011261,great paxton,huntingdonshire,Con,LDem
+E05005206,altham,hyndburn,Con,Lab
+E05005207,barnfield,hyndburn,Lab,Lab
+E05005208,baxenden,hyndburn,Con,Lab
+E05005209,central,hyndburn,Lab,Grn
+E05005210,church,hyndburn,Con,Lab
+E05005215,netherton,hyndburn,Lab,Lab
+E05005216,overton,hyndburn,Lab,Lab
+E05005217,peel,hyndburn,Lab,Lab
+E05005218,rishton,hyndburn,Con,Lab
+E05005221,spring hill,hyndburn,Lab,Lab
+E05005219,st andrews,hyndburn,Con,Lab
+E05005220,st oswalds,hyndburn,Con,Con
+E05007117,alexandra,ipswich,Lab,Lab
+E05007118,bixley,ipswich,Con,Con
+E05007119,bridge,ipswich,Lab,Lab
+E05007120,castle hill,ipswich,Con,Con
+E05007121,gainsborough,ipswich,Con,Lab
+E05007122,gipping,ipswich,Lab,Lab
+E05007123,holywells,ipswich,Con,Lab
+E05007124,priory heath,ipswich,Lab,Lab
+E05007125,rushmere,ipswich,Lab,Lab
+E05007128,sprites,ipswich,Con,Lab
+E05007126,st johns,ipswich,Lab,Lab
+E05007127,st margarets,ipswich,LDem,LDem
+E05007129,stoke park,ipswich,Con,Lab
+E05007130,westgate,ipswich,Lab,Lab
+E05007131,whitehouse,ipswich,Lab,Lab
+E05007132,whitton,ipswich,Con,Lab
+E05013705,hillrise,islington,Lab,Lab
+E05009398,norland,kensingtonchelsea,Con,Con
+E05008558,almondbury,kirklees,Con,LDem
+E05001389,ashbrow,kirklees,Lab,Lab
+E05001390,batley east,kirklees,Lab,Ind
+E05001391,batley west,kirklees,Lab,Ind
+E05001392,birstallbirkenshaw,kirklees,Con,Con
+E05001393,cleckheaton,kirklees,LDem,LDem
+E05008559,colne valley,kirklees,Lab,Lab
+E05008560,crosland moornetherton,kirklees,Lab,Grn
+E05001396,dalton,kirklees,Lab,Lab
+E05001397,denby dale,kirklees,Con,Con
+E05001398,dewsbury east,kirklees,Lab,Lab
+E05001399,dewsbury south,kirklees,Lab,Ind
+E05001400,dewsbury west,kirklees,Lab,Ind
+E05001401,golcar,kirklees,Lab,Lab
+E05001402,greenhead,kirklees,Lab,Lab
+E05001403,heckmondwike,kirklees,Lab,Ind
+E05008561,holme valley north,kirklees,Ind,Ind
+E05001405,holme valley south,kirklees,Con,Lab
+E05008562,kirkburton,kirklees,Con,Con
+E05001407,lindley,kirklees,Con,LDem
+E05001408,liversedgegomersal,kirklees,Con,Con
+E05001409,mirfield,kirklees,Con,Con
+E05001410,newsome,kirklees,Grn,Grn
+E05010935,cherryfield,knowsley,Lab,Lab
+E05010936,halewood north,knowsley,Lab,Lab
+E05010937,halewood south,knowsley,Lab,Lab
+E05010938,northwood,knowsley,Lab,Lab
+E05010939,page moss,knowsley,Lab,Lab
+E05010940,prescot north,knowsley,LDem,LDem
+E05010941,prescot south,knowsley,Grn,Grn
+E05010942,roby,knowsley,Lab,Lab
+E05010943,shevington,knowsley,Lab,Lab
+E05010944,st gabriels,knowsley,Lab,Lab
+E05010945,st michaels,knowsley,Lab,Lab
+E05010946,stockbridge,knowsley,Lab,Lab
+E05010947,swanside,knowsley,Lab,Lab
+E05010948,whistoncronton,knowsley,Lab,Lab
+E05010949,whitefield,knowsley,Ind,Ind
+E05014106,knights hill,lambeth,Lab,
+E05014112,streatham commonvale,lambeth,Lab,
+E05014889,carnforthmillhead,lancaster,Lab,Lab
+E05012841,adelwharfedale,leeds,Con,Con
+E05012842,alwoodley,leeds,Con,Con
+E05011384,ardsleyrobin hood,leeds,Con,Lab
+E05011385,armley,leeds,Lab,Grn
+E05012647,beestonholbeck,leeds,Lab,Lab
+E05011387,bramleystanningley,leeds,Lab,Lab
+E05011388,burmantoftsrichmond hill,leeds,Lab,Lab
+E05011389,calverleyfarsley,leeds,Con,Lab
+E05011390,chapel allerton,leeds,Lab,Lab
+E05011391,cross gateswhinmoor,leeds,Lab,Lab
+E05012648,farnleywortley,leeds,Grn,Lab
+E05013830,garforthswillington,leeds,IndGrp,IndGrp
+E05011394,giptonharehills,leeds,Lab,Grn
+E05011395,guiseleyrawdon,leeds,Con,Lab
+E05011396,harewood,leeds,Con,Con
+E05011397,headingleyhyde park,leeds,Lab,Grn
+E05011547,horsforth,leeds,Con,Lab
+E05011399,hunsletriverside,leeds,Lab,Lab
+E05011400,killingbeckseacroft,leeds,Lab,Lab
+E05011401,kippaxmethley,leeds,Lab,Lab
+E05011402,kirkstall,leeds,Lab,Lab
+E05011403,little londonwoodhouse,leeds,Lab,Lab
+E05011404,middleton park,leeds,Lab,Oth
+E05011405,moortown,leeds,Lab,Lab
+E05011406,morley north,leeds,IndGrp,IndGrp
+E05011407,morley south,leeds,IndGrp,IndGrp
+E05011549,otleyyeadon,leeds,LDem,LDem
+E05011409,pudsey,leeds,Con,Con
+E05011410,rothwell,leeds,LDem,LDem
+E05011411,roundhay,leeds,Lab,Lab
+E05013831,temple newsam,leeds,Lab,Lab
+E05011413,weetwood,leeds,Lab,Lab
+E05011414,wetherby,leeds,Con,Con
+E05013719,deptford,lewisham,Lab,Lab
+E05011350,ancoatsbeswick,manchester,Lab,LDem
+E05011351,ardwick,manchester,Lab,Lab
+E05011352,baguley,manchester,Lab,Lab
+E05011353,brooklands,manchester,Lab,Lab
+E05011354,burnage,manchester,Lab,Lab
+E05011355,charlestown,manchester,Lab,Lab
+E05011356,cheetham,manchester,Lab,Lab
+E05011357,chorlton,manchester,Lab,Lab
+E05011358,chorlton park,manchester,Lab,Lab
+E05011359,claytonopenshaw,manchester,Lab,Lab
+E05011360,crumpsall,manchester,Lab,Lab
+E05011361,deansgate,manchester,Lab,Lab
+E05011362,didsbury east,manchester,Lab,Lab
+E05011363,didsbury west,manchester,Lab,Lab
+E05011364,fallowfield,manchester,Lab,Lab
+E05011365,gortonabbey hey,manchester,Lab,Lab
+E05011366,harpurhey,manchester,Lab,Lab
+E05011367,higher blackley,manchester,Lab,Lab
+E05011368,hulme,manchester,Lab,Lab
+E05011369,levenshulme,manchester,Lab,Lab
+E05011370,longsight,manchester,Lab,Oth
+E05011371,miles plattingnewton heath,manchester,Lab,Lab
+E05011372,moss side,manchester,Lab,Lab
+E05011373,moston,manchester,Lab,Lab
+E05011374,northenden,manchester,Lab,Lab
+E05011375,old moat,manchester,Lab,Lab
+E05011376,piccadilly,manchester,Lab,Lab
+E05011377,rusholme,manchester,Lab,Lab
+E05011378,sharston,manchester,Lab,Lab
+E05011379,whalley range,manchester,Lab,Lab
+E05011380,withington,manchester,Lab,Lab
+E05011381,woodhouse park,manchester,Grn,Grn
+E05012593,chilton,mid suffolk,Grn,Grn
+E05009406,bletchley east,milton keynes,Lab,Lab
+E05009407,bletchley park,milton keynes,Con,Lab
+E05009408,bletchley west,milton keynes,Con,Lab
+E05009409,bradwell,milton keynes,LDem,LDem
+E05009410,broughton,milton keynes,LDem,LDem
+E05009411,campbell parkold woughton,milton keynes,Con,LDem
+E05009412,central milton keynes,milton keynes,Lab,Lab
+E05009413,danesboroughwalton,milton keynes,Con,Con
+E05009414,loughtonshenley,milton keynes,Lab,Lab
+E05009415,monkston,milton keynes,LDem,LDem
+E05009416,newport pagnell northhanslope,milton keynes,Con,Con
+E05009417,newport pagnell south,milton keynes,Con,LDem
+E05009418,olney,milton keynes,Con,Con
+E05009419,shenley brook end,milton keynes,Con,LDem
+E05009420,stantonbury,milton keynes,Con,Lab
+E05009421,stony stratford,milton keynes,Con,Lab
+E05009422,tattenhoe,milton keynes,Con,Con
+E05009423,wolverton,milton keynes,Lab,Lab
+E05009424,woughtonfishermead,milton keynes,Lab,Lab
+E05015341,ashtead lanescommon,mole valley,IndGrp,IndGrp
+E05015342,ashtead park,mole valley,IndGrp,IndGrp
+E05015343,bookham easteastwick park,mole valley,LDem,LDem
+E05015344,bookham west,mole valley,LDem,LDem
+E05015345,brockham betchworth buckland box hillheadley,mole valley,LDem,LDem
+E05015346,capel leigh newdigatecharlwood,mole valley,LDem,LDem
+E05015347,dorking north,mole valley,LDem,LDem
+E05015348,dorking south,mole valley,LDem,LDem
+E05015349,fetcham,mole valley,LDem,LDem
+E05015350,holmwoodsbeare green,mole valley,LDem,LDem
+E05015351,leatherhead north,mole valley,LDem,LDem
+E05015352,leatherhead south,mole valley,LDem,LDem
+E05015353,mickleham westcottokewood,mole valley,LDem,LDem
+E05011436,arthurs hill,newcastle upon tyne,Lab,Lab
+E05011437,benwellscotswood,newcastle upon tyne,Lab,Lab
+E05011438,blakelaw,newcastle upon tyne,Lab,Lab
+E05011439,byker,newcastle upon tyne,Lab,Grn
+E05011440,callertonthrockley,newcastle upon tyne,Lab,Lab
+E05011441,castle,newcastle upon tyne,LDem,Lab
+E05011442,chapel,newcastle upon tyne,Ind,Ind
+E05011443,denesouth gosforth,newcastle upon tyne,LDem,LDem
+E05011444,dentonwesterhope,newcastle upon tyne,IndGrp,IndGrp
+E05011445,elswick,newcastle upon tyne,Lab,Grn
+E05011446,fawdonwest gosforth,newcastle upon tyne,LDem,LDem
+E05011447,gosforth,newcastle upon tyne,LDem,Con
+E05011448,heaton,newcastle upon tyne,Lab,Lab
+E05011449,kenton,newcastle upon tyne,Lab,Lab
+E05011450,kingston park southnewbiggin hall,newcastle upon tyne,Lab,Lab
+E05011451,lemington,newcastle upon tyne,IndGrp,Lab
+E05011452,manor park,newcastle upon tyne,LDem,LDem
+E05011453,monument,newcastle upon tyne,Lab,Lab
+E05011454,north jesmond,newcastle upon tyne,Lab,LDem
+E05011455,ouseburn,newcastle upon tyne,Lab,Lab
+E05011456,parklands,newcastle upon tyne,LDem,LDem
+E05011457,south jesmond,newcastle upon tyne,Lab,Lab
+E05011458,walker,newcastle upon tyne,Lab,Lab
+E05011459,walkergate,newcastle upon tyne,Lab,Lab
+E05011460,west fenham,newcastle upon tyne,Lab,LDem
+E05011461,wingrove,newcastle upon tyne,Lab,Lab
+E05001713,croft baker,north east lincolnshire,Con,Lab
+E05001714,east marsh,north east lincolnshire,LDem,LDem
+E05001715,freshney,north east lincolnshire,Con,Ind
+E05001716,haverstoe,north east lincolnshire,Con,Con
+E05001717,heneage,north east lincolnshire,Con,Lab
+E05001718,humberstonnew waltham,north east lincolnshire,Con,Con
+E05001719,immingham,north east lincolnshire,Con,Con
+E05001720,park,north east lincolnshire,Con,Lab
+E05001721,scartho,north east lincolnshire,Con,Lab
+E05001722,sidney sussex,north east lincolnshire,Con,Lab
+E05001723,south,north east lincolnshire,Con,Lab
+E05001727,yarborough,north east lincolnshire,Con,Ind
+E05010123,snibston south,north west leicestershire,Lab,Lab
+E05012901,bowthorpe,norwich,Lab,Lab
+E05012902,catton grove,norwich,Lab,Lab
+E05012903,crome,norwich,Lab,Lab
+E05012904,eaton,norwich,LDem,LDem
+E05012905,lakenham,norwich,Lab,Lab
+E05012906,mancroft,norwich,Grn,Grn
+E05012907,mile cross,norwich,Lab,Grn
+E05012908,nelson,norwich,Grn,Grn
+E05012909,sewell,norwich,Grn,Grn
+E05012910,thorpe hamlet,norwich,Grn,Grn
+E05012911,town close,norwich,Lab,Lab
+E05012912,university,norwich,Lab,Lab
+E05012913,wensum,norwich,Lab,Grn
+E05014646,alexandra,oldham,Lab,Ind
+E05014647,chadderton central,oldham,Lab,Lab
+E05014648,chadderton north,oldham,Lab,Lab
+E05014649,chadderton south,oldham,Lab,Lab
+E05014650,coldhurst,oldham,Lab,Ind
+E05014651,crompton,oldham,LDem,LDem
+E05014652,failsworth east,oldham,IndGrp,Lab
+E05014653,failsworth west,oldham,Ind,Ind
+E05014654,hollinwood,oldham,Con,Lab
+E05014655,medlock vale,oldham,Lab,Lab
+E05014656,royton north,oldham,Con,Con
+E05014657,royton south,oldham,Ind,Ind
+E05014658,saddleworth north,oldham,Con,LDem
+E05014659,saddleworth south,oldham,Con,Con
+E05014660,saddleworth westlees,oldham,LDem,LDem
+E05014661,shaw,oldham,Ind,Ind
+E05014662,st james,oldham,Con,Lab
+E05014663,st marys,oldham,Lab,Ind
+E05014664,waterhead,oldham,Lab,Ind
+E05014665,werneth,oldham,Lab,Ind
+E05013096,bartonsandhills,oxford,Lab,Lab
+E05013097,blackbird leys,oxford,Lab,Lab
+E05013098,carfaxjericho,oxford,Lab,Lab
+E05013099,churchill,oxford,Lab,Lab
+E05013100,cowley,oxford,Lab,IndGrp
+E05013101,cutteslowesunnymead,oxford,LDem,LDem
+E05013102,donnington,oxford,Grn,Grn
+E05013103,headington,oxford,LDem,LDem
+E05013104,headington hillnorthway,oxford,Lab,Lab
+E05013105,hinksey park,oxford,Lab,Lab
+E05013106,holywell,oxford,Lab,Grn
+E05013107,littlemore,oxford,Lab,IndGrp
+E05013108,lye valley,oxford,Lab,IndGrp
+E05013109,marston,oxford,Lab,Lab
+E05013110,northfield brook,oxford,Lab,Lab
+E05013111,osneyst thomas,oxford,Lab,Lab
+E05013112,quarryrisinghurst,oxford,LDem,LDem
+E05013113,rose hilliffley,oxford,Lab,IndGrp
+E05013114,st clements,oxford,Lab,Grn
+E05013115,st marys,oxford,Grn,Grn
+E05013116,summertown,oxford,LDem,LDem
+E05013117,temple cowley,oxford,Lab,Ind
+E05013118,walton manor,oxford,Lab,Lab
+E05013119,wolvercote,oxford,LDem,LDem
+E05015546,barnoldswick,pendle,Con,LDem
+E05013201,barrowfordpendleside,pendle,Con,Con
+E05013202,boulsworthfoulridge,pendle,Con,Con
+E05013203,bradley,pendle,Lab,Ind
+E05013204,brierfield eastclover hill,pendle,Lab,Ind
+E05013205,brierfield westreedley,pendle,Lab,Ind
+E05015547,earbycoates,pendle,Con,LDem
+E05013207,fencehigham,pendle,LDem,LDem
+E05013208,marsdensouthfield,pendle,Con,Ind
+E05013209,vivary bridge,pendle,Con,Con
+E05013210,watersidehorsfield,pendle,Con,Con
+E05013211,whitefieldwalverden,pendle,Lab,Ind
+E05010805,barnack,peterborough,Con,Con
+E05010806,bretton,peterborough,Con,Lab
+E05010807,central,peterborough,Lab,Lab
+E05010808,dogsthorpe,peterborough,Con,Lab
+E05010809,east,peterborough,Con,Lab
+E05010810,eye thorneynewborough,peterborough,Con,IndGrp
+E05010811,flettonstanground,peterborough,Con,LDem
+E05010812,flettonwoodston,peterborough,Con,Lab
+E05010813,glintoncastor,peterborough,Con,IndGrp
+E05010814,gunthorpe,peterborough,Con,LDem
+E05010815,hampton vale,peterborough,Con,IndGrp
+E05010816,hargatehempsted,peterborough,Con,IndGrp
+E05010817,north,peterborough,Lab,Lab
+E05010818,orton longueville,peterborough,Con,Grn
+E05010819,orton waterville,peterborough,Grn,Ind
+E05010820,park,peterborough,Lab,Lab
+E05010821,pastonwalton,peterborough,LDem,Con
+E05010822,ravensthorpe,peterborough,Con,Grn
+E05010823,stanground south,peterborough,Con,IndGrp
+E05010824,werrington,peterborough,Res,IndGrp
+E05010825,west,peterborough,Con,Con
+E05010826,wittering,peterborough,Con,IndGrp
+E05002078,budshead,plymouth,Con,Lab
+E05002079,compton,plymouth,Con,Lab
+E05002080,devonport,plymouth,Lab,Lab
+E05002082,effordlipson,plymouth,Lab,Lab
+E05002083,eggbuckland,plymouth,Con,Con
+E05002084,ham,plymouth,Con,Lab
+E05002085,honicknowle,plymouth,Con,Lab
+E05002086,moor view,plymouth,Con,Lab
+E05002087,peverell,plymouth,Con,Lab
+E05002088,plympton chaddlewood,plymouth,Con,Grn
+E05002089,plympton erle,plymouth,Con,Ind
+E05002090,plympton st mary,plymouth,Con,Ind
+E05002091,plymstock dunstone,plymouth,Con,Lab
+E05002092,plymstock radford,plymouth,Con,Lab
+E05002095,southway,plymouth,Con,Lab
+E05002093,st budeaux,plymouth,Con,Lab
+E05002094,st peterthe waterfront,plymouth,Lab,Lab
+E05002096,stoke,plymouth,Lab,Lab
+E05002097,suttonmount gould,plymouth,Lab,Lab
+E05002441,baffins,portsmouth,LDem,LDem
+E05002442,central southsea,portsmouth,Lab,Lab
+E05002443,charles dickens,portsmouth,Lab,Lab
+E05002444,copnor,portsmouth,Con,IndGrp
+E05002445,cosham,portsmouth,Con,IndGrp
+E05002446,draytonfarlington,portsmouth,Con,Con
+E05002447,eastneycraneswater,portsmouth,Con,LDem
+E05002448,fratton,portsmouth,LDem,LDem
+E05002449,hilsea,portsmouth,Con,IndGrp
+E05002450,milton,portsmouth,LDem,LDem
+E05002451,nelson,portsmouth,LDem,LDem
+E05002452,paulsgrove,portsmouth,Ind,IndGrp
+E05002453,st jude,portsmouth,LDem,LDem
+E05002454,st thomas,portsmouth,LDem,LDem
+E05012193,ashton,preston,Lab,Lab
+E05012194,brookfield,preston,Lab,Lab
+E05012195,cadley,preston,LDem,LDem
+E05012196,city centre,preston,Lab,Lab
+E05012197,deepdale,preston,Lab,Lab
+E05012198,fishwickfrenchwood,preston,Lab,Lab
+E05012199,garrison,preston,Lab,Lab
+E05012200,greyfriars,preston,Con,LDem
+E05012201,ingolcottam,preston,Con,LDem
+E05012202,lealarches,preston,Lab,LDem
+E05012203,plungington,preston,Lab,Lab
+E05012204,preston rural east,preston,Con,Con
+E05012205,preston rural north,preston,Con,LDem
+E05012206,ribbleton,preston,Lab,Lab
+E05012208,sharoe green,preston,Con,LDem
+E05012207,st matthews,preston,Lab,Lab
+E05013864,abbey,reading,Lab,Lab
+E05013865,battle,reading,Lab,Lab
+E05013866,caversham,reading,Lab,Lab
+E05013867,caversham heights,reading,Lab,Lab
+E05013868,church,reading,Lab,Lab
+E05013869,coley,reading,Lab,Lab
+E05013870,emmer green,reading,Con,Lab
+E05013871,katesgrove,reading,Grn,Grn
+E05013872,kentwood,reading,Con,Lab
+E05013873,norcot,reading,Lab,Lab
+E05013874,park,reading,Grn,Grn
+E05013875,redlands,reading,Lab,Grn
+E05013876,southcote,reading,Lab,Lab
+E05013877,thames,reading,Lab,Lab
+E05013878,tilehurst,reading,LDem,LDem
+E05013879,whitley,reading,Lab,Lab
+E05012872,banstead village,reigatebanstead,Con,Con
+E05012873,chipstead kingswoodwoodmansterne,reigatebanstead,Con,Con
+E05012874,earlswoodwhitebushes,reigatebanstead,Grn,Grn
+E05012875,hooley mersthamnetherne,reigatebanstead,Con,Grn
+E05012876,horley centralsouth,reigatebanstead,Con,Con
+E05012877,horley eastsalfords,reigatebanstead,Con,Grn
+E05012878,horley westsidlow,reigatebanstead,Con,LDem
+E05012879,lower kingswood tadworthwalton,reigatebanstead,Con,Ind
+E05012880,meadvalest johns,reigatebanstead,LDem,LDem
+E05012881,nork,reigatebanstead,Res,Res
+E05012882,redhill east,reigatebanstead,Grn,Grn
+E05012883,redhill westwray common,reigatebanstead,Con,Lab
+E05012884,reigate,reigatebanstead,Con,Con
+E05012885,south parkwoodhatch,reigatebanstead,Grn,Grn
+E05012886,tattenham cornerpreston,reigatebanstead,Res,Res
+E05014033,balderstonekirkholt,rochdale,Lab,Lab
+E05014034,bamford,rochdale,Con,Con
+E05014035,castleton,rochdale,Lab,Lab
+E05014036,central rochdale,rochdale,Lab,Oth
+E05014037,east middleton,rochdale,Lab,Lab
+E05014038,healey,rochdale,Lab,Lab
+E05014039,hopwood hall,rochdale,Lab,Lab
+E05014040,kingsway,rochdale,Lab,Lab
+E05014041,littleborough lakeside,rochdale,Lab,Lab
+E05014042,milkstonedeeplish,rochdale,Lab,Oth
+E05014043,milnrownewhey,rochdale,LDem,LDem
+E05014044,norden,rochdale,Con,Con
+E05014045,north heywood,rochdale,Lab,Lab
+E05014046,north middleton,rochdale,Lab,Lab
+E05014047,smallbridgefirgrove,rochdale,Lab,Lab
+E05014048,south middleton,rochdale,Lab,Lab
+E05014049,spotlandfalinge,rochdale,Lab,Lab
+E05014050,wardle shorewest littleborough,rochdale,Con,Con
+E05014051,west heywood,rochdale,Lab,Lab
+E05014052,west middleton,rochdale,Lab,Lab
+E05010844,downhallrawreth,rochford,LDem,LDem
+E05010845,foulnessthe wakerings,rochford,Con,Ind
+E05010846,hawkwell east,rochford,Con,Ind
+E05010847,hawkwell west,rochford,Res,Res
+E05010848,hockley,rochford,Con,Res
+E05010849,hockleyashingdon,rochford,Con,Con
+E05010850,hullbridge,rochford,Res,Ind
+E05010851,lodge,rochford,Con,LDem
+E05010852,roche northrural,rochford,Con,Con
+E05010853,roche south,rochford,Con,Con
+E05010854,sweyne parkgrange,rochford,Res,Ind
+E05010855,trinity,rochford,Con,LDem
+E05010856,wheatley,rochford,Ind,LDem
+E05012993,anstonwoodsetts,rotherham,Con,Con
+E05012994,astontodwick,rotherham,Con,Con
+E05012995,aughtonswallownest,rotherham,Lab,Lab
+E05012996,boston castle,rotherham,Lab,Ind
+E05012997,bramleyravenfield,rotherham,Con,Con
+E05012998,brinsworth,rotherham,LDem,LDem
+E05012999,daltonthrybergh,rotherham,Ind,Ind
+E05013000,dinnington,rotherham,Con,Con
+E05013001,greasbrough,rotherham,Lab,Lab
+E05013002,hellabymaltby west,rotherham,Con,Con
+E05013003,hoober,rotherham,Lab,Lab
+E05013004,keppel,rotherham,Lab,Lab
+E05013005,kilnhurstswinton east,rotherham,Lab,Lab
+E05013006,maltby east,rotherham,Con,Lab
+E05013007,rawmarsh east,rotherham,Lab,Lab
+E05013008,rawmarsh west,rotherham,Lab,Lab
+E05013009,rother vale,rotherham,LDem,Lab
+E05013010,rotherham east,rotherham,Lab,Lab
+E05013011,rotherham west,rotherham,IndGrp,Ind
+E05013012,sitwell,rotherham,Con,Con
+E05013013,swinton rockingham,rotherham,Lab,Lab
+E05013014,thurcroftwickersley south,rotherham,Con,Con
+E05013015,wales,rotherham,Lab,Ind
+E05013016,wath,rotherham,Lab,Lab
+E05013017,wickersley north,rotherham,Lab,Lab
+E05010758,admiralscawston,rugby,Con,Lab
+E05008974,benn,rugby,Lab,Lab
+E05008975,bilton,rugby,Con,Con
+E05008976,clifton newtonchurchover,rugby,Con,Con
+E05008977,cotonboughton,rugby,Con,Lab
+E05010759,dunsmore,rugby,Con,Con
+E05008986,eastlands,rugby,LDem,LDem
+E05008979,hillmorton,rugby,Con,Con
+E05008981,new bilton,rugby,Lab,Lab
+E05008982,newboldbrownsover,rugby,Con,Lab
+E05008983,paddox,rugby,LDem,LDem
+E05008984,revelbinley woods,rugby,Con,Con
+E05008985,rokebyoverslade,rugby,LDem,LDem
+E05010760,wolstonthe lawfords,rugby,Con,Con
+E05012887,addlestone north,runnymede,Con,Grn
+E05012888,addlestone south,runnymede,Con,Con
+E05012889,chertsey riverside,runnymede,Con,Lab
+E05012890,chertsey st anns,runnymede,Con,Lab
+E05012891,egham hythe,runnymede,Con,Lab
+E05012892,egham town,runnymede,Res,Res
+E05012894,englefield green west,runnymede,Con,Lab
+E05012895,longcross lynechertsey south,runnymede,LDem,LDem
+E05012896,new haw,runnymede,Con,LDem
+E05012897,ottershaw,runnymede,Ind,Ind
+E05012898,thorpe,runnymede,Res,Res
+E05012899,virginia water,runnymede,Con,LDem
+E05012900,woodhamrowtown,runnymede,Con,Con
+E05008989,aldershot park,rushmoor,Lab,Lab
+E05008990,cherrywood,rushmoor,Con,Lab
+E05008991,covesouthwood,rushmoor,Con,Con
+E05008992,empress,rushmoor,Con,Lab
+E05008993,fernhill,rushmoor,Con,Con
+E05008994,knellwood,rushmoor,Con,Con
+E05008995,manor park,rushmoor,Con,Lab
+E05008996,north town,rushmoor,Lab,Lab
+E05008997,rowhill,rushmoor,Con,Lab
+E05008998,st johns,rushmoor,Con,Lab
+E05008999,st marks,rushmoor,Con,LDem
+E05009000,wellington,rushmoor,Con,Lab
+E05009001,west heath,rushmoor,Con,Lab
+E05013018,bartonwinton,salford,Lab,Lab
+E05013019,blackfriarstrinity,salford,Lab,Lab
+E05013020,boothstownellenbrook,salford,Con,Con
+E05013021,broughton,salford,Lab,Lab
+E05013022,cadisheadlower irlam,salford,Lab,Lab
+E05013023,claremont,salford,Lab,Lab
+E05013024,eccles,salford,Lab,Lab
+E05013025,higher irlampeel green,salford,Lab,Lab
+E05013026,kersalbroughton park,salford,Con,Con
+E05013027,little hulton,salford,Lab,Lab
+E05013028,ordsall,salford,Lab,Lab
+E05013029,pendleburyclifton,salford,Lab,Lab
+E05013030,pendletoncharlestown,salford,Lab,Lab
+E05013031,quays,salford,Lab,LDem
+E05013032,swintonwardley,salford,Lab,Lab
+E05013033,swinton park,salford,Lab,Lab
+E05013034,walkden north,salford,Lab,Lab
+E05013035,walkden south,salford,Lab,Lab
+E05013036,weasteseedley,salford,Lab,Lab
+E05013037,worsleywestwood park,salford,Con,Lab
+E05001260,abbey,sandwell,Lab,Lab
+E05001261,blackheath,sandwell,Lab,Lab
+E05001262,bristnall,sandwell,Lab,Lab
+E05001263,charlemont with grove vale,sandwell,Con,Lab
+E05001264,cradley heathold hill,sandwell,Lab,Lab
+E05001265,friar park,sandwell,Con,Lab
+E05001266,great barr with yew tree,sandwell,Con,Lab
+E05001267,great bridge,sandwell,Con,Con
+E05001268,greets greenlyng,sandwell,Lab,Lab
+E05001269,hateley heath,sandwell,Lab,Lab
+E05001270,langley,sandwell,Lab,Lab
+E05001271,newton,sandwell,Lab,Lab
+E05001272,old warley,sandwell,Con,Lab
+E05001273,oldbury,sandwell,Lab,Lab
+E05001274,princes end,sandwell,Con,Lab
+E05001275,rowley,sandwell,Con,Lab
+E05001277,smethwick,sandwell,Lab,Lab
+E05001278,sohovictoria,sandwell,Lab,Lab
+E05001276,st pauls,sandwell,Lab,Lab
+E05001279,tipton green,sandwell,Lab,Ind
+E05001280,tividale,sandwell,Lab,Lab
+E05001281,wednesbury north,sandwell,Lab,Lab
+E05001282,wednesbury south,sandwell,Lab,Lab
+E05001283,west bromwich central,sandwell,Lab,Lab
+E05000932,ainsdale,sefton,LDem,LDem
+E05000933,birkdale,sefton,Lab,Lab
+E05000934,blundellsands,sefton,Lab,Lab
+E05000935,cambridge,sefton,Con,LDem
+E05000936,church,sefton,Lab,Grn
+E05000937,derby,sefton,Lab,Lab
+E05000938,dukes,sefton,Con,Con
+E05000939,ford,sefton,Lab,Lab
+E05000940,harington,sefton,Con,Lab
+E05000941,kew,sefton,Lab,Lab
+E05000942,linacre,sefton,Lab,Lab
+E05000943,litherland,sefton,Lab,Lab
+E05000944,manor,sefton,Lab,Lab
+E05000945,meols,sefton,LDem,LDem
+E05000946,molyneux,sefton,Lab,Lab
+E05000947,nethertonorrell,sefton,Lab,Lab
+E05000948,norwood,sefton,Lab,Lab
+E05000949,park,sefton,Lab,Lab
+E05000950,ravenmeols,sefton,Lab,Lab
+E05000951,st oswald,sefton,Lab,Lab
+E05000952,sudell,sefton,Lab,Lab
+E05000953,victoria,sefton,Lab,Lab
+E05010857,beauchiefgreenhill,sheffield,LDem,LDem
+E05010858,beighton,sheffield,LDem,LDem
+E05010859,birley,sheffield,Lab,Lab
+E05010860,broomhillsharrow vale,sheffield,Grn,Grn
+E05010861,burngreave,sheffield,Lab,Lab
+E05010862,city,sheffield,Grn,Grn
+E05010863,crookescrosspool,sheffield,Lab,Lab
+E05010864,darnall,sheffield,Lab,Ind
+E05010865,doretotley,sheffield,LDem,LDem
+E05010866,east ecclesfield,sheffield,LDem,LDem
+E05010867,ecclesall,sheffield,LDem,Grn
+E05010868,firth park,sheffield,Lab,Lab
+E05010869,fulwood,sheffield,LDem,LDem
+E05010870,gleadless valley,sheffield,Grn,Grn
+E05010871,graves park,sheffield,LDem,Lab
+E05010872,hillsborough,sheffield,Grn,Grn
+E05010873,manor castle,sheffield,Lab,Lab
+E05010874,mosborough,sheffield,Lab,Lab
+E05010875,nethergesharrow,sheffield,Grn,Grn
+E05010876,parkarbourthorne,sheffield,Lab,Lab
+E05010877,richmond,sheffield,Lab,Lab
+E05010878,shiregreenbrightside,sheffield,Lab,Lab
+E05010879,southey,sheffield,Lab,Lab
+E05010880,stannington,sheffield,LDem,LDem
+E05010881,stocksbridgeupper don,sheffield,Con,Lab
+E05010882,walkley,sheffield,Grn,Lab
+E05010883,west ecclesfield,sheffield,LDem,LDem
+E05010884,woodhouse,sheffield,Lab,Lab
+E05001284,bickenhill,solihull,Con,Con
+E05001285,blythe,solihull,Con,Con
+E05001286,castle bromwich,solihull,Con,Con
+E05001287,chelmsley wood,solihull,Grn,Grn
+E05001288,dorridgehockley heath,solihull,Con,Con
+E05001289,elmdon,solihull,Con,LDem
+E05001290,kingshurstfordbridge,solihull,Grn,Lab
+E05001291,knowle,solihull,Con,Con
+E05001292,lyndon,solihull,Con,Con
+E05001293,meriden,solihull,Con,Con
+E05001294,olton,solihull,Con,LDem
+E05001296,shirley east,solihull,Con,Con
+E05001297,shirley south,solihull,Grn,Grn
+E05001298,shirley west,solihull,Grn,Con
+E05001299,silhill,solihull,Con,Con
+E05001300,smiths wood,solihull,Grn,Grn
+E05001295,st alphege,solihull,Con,Con
+E05014372,mendip south,somerset,LDem,LDem
+E05008815,melbourne,south derbyshire,Con,Con
+E05012119,new cheltenham,south gloucestershire,Lab,Lab
+E05011869,bunwell,south norfolk,Con,Grn
+E05001135,beaconbents,south tyneside,Grn,Grn
+E05001136,bede,south tyneside,Lab,Ind
+E05001137,biddickall saints,south tyneside,Lab,Grn
+E05001138,boldon colliery,south tyneside,Lab,Ind
+E05001139,cleadoneast boldon,south tyneside,Con,Grn
+E05001140,cleadon park,south tyneside,Lab,Ind
+E05001141,fellgatehedworth,south tyneside,Lab,Ind
+E05001142,harton,south tyneside,Lab,Ind
+E05001143,hebburn north,south tyneside,Lab,Lab
+E05001144,hebburn south,south tyneside,Lab,Lab
+E05001145,horsley hill,south tyneside,Lab,Ind
+E05001146,monkton,south tyneside,Lab,Lab
+E05001147,primrose,south tyneside,Ind,Ind
+E05001148,simonsiderekendyke,south tyneside,Lab,Ind
+E05001150,west park,south tyneside,Grn,Grn
+E05001149,westoe,south tyneside,Lab,Ind
+E05001151,whitburnmarsden,south tyneside,Lab,Lab
+E05001152,whiteleas,south tyneside,Lab,Ind
+E05015490,banisterpolygon,southampton,Lab,Lab
+E05015491,bargate,southampton,Lab,Lab
+E05015492,bassett,southampton,LDem,LDem
+E05015493,bevois,southampton,Lab,Lab
+E05015494,bitterne park,southampton,Lab,Lab
+E05015495,coxford,southampton,Lab,Lab
+E05015496,freemantle,southampton,Lab,Lab
+E05015497,harefield,southampton,Con,Con
+E05015498,millbrook,southampton,Con,Lab
+E05015499,peartree,southampton,Lab,Lab
+E05015500,portswood,southampton,Grn,Lab
+E05015501,redbridge,southampton,Lab,Lab
+E05015502,shirley,southampton,Lab,Lab
+E05015503,sholing,southampton,Con,Con
+E05015504,swaythling,southampton,Lab,LDem
+E05015505,thornhill,southampton,Lab,Lab
+E05015506,woolston,southampton,Lab,Con
+E05002212,belfairs,southendonsea,Con,Con
+E05002213,blenheim park,southendonsea,Con,Lab
+E05002214,chalkwell,southendonsea,Con,Con
+E05002215,eastwood park,southendonsea,Con,LDem
+E05002216,kursaal,southendonsea,Lab,Lab
+E05002217,leigh,southendonsea,LDem,Grn
+E05002218,milton,southendonsea,Lab,Lab
+E05002219,prittlewell,southendonsea,Con,Con
+E05002222,shoeburyness,southendonsea,Con,Con
+E05002223,southchurch,southendonsea,Con,Con
+E05002220,st laurence,southendonsea,Con,Lab
+E05002221,st lukes,southendonsea,Con,Lab
+E05002224,thorpe,southendonsea,Ind,Ind
+E05002225,victoria,southendonsea,Lab,Lab
+E05002227,west leigh,southendonsea,Con,Con
+E05002228,west shoebury,southendonsea,Con,Con
+E05002226,westborough,southendonsea,Lab,Lab
+E05013947,batchwood,st albans,LDem,LDem
+E05013948,bernards heath,st albans,LDem,LDem
+E05013949,clarence,st albans,Grn,LDem
+E05013951,cunningham,st albans,LDem,LDem
+E05013952,harpenden east,st albans,LDem,LDem
+E05013953,harpenden northrural,st albans,LDem,LDem
+E05013954,harpenden south,st albans,Con,Con
+E05013955,harpenden west,st albans,LDem,LDem
+E05013956,hill end,st albans,LDem,LDem
+E05013957,london colney,st albans,LDem,Lab
+E05013960,park street,st albans,LDem,LDem
+E05013962,sandridgewheathampstead,st albans,LDem,LDem
+E05013963,sopwell,st albans,LDem,LDem
+E05013964,st peters,st albans,Grn,Grn
+E05013965,st stephen,st albans,LDem,LDem
+E05013966,verulam,st albans,LDem,LDem
+E05015014,bramhall north,stockport,LDem,LDem
+E05015015,bramhall southwoodford,stockport,LDem,LDem
+E05015016,bredburywoodley,stockport,Lab,Lab
+E05015017,bredbury greenromiley,stockport,LDem,LDem
+E05015018,brinningtonstockport central,stockport,Lab,Lab
+E05015019,cheadle eastcheadle hulme north,stockport,Lab,LDem
+E05015020,cheadle hulme south,stockport,LDem,LDem
+E05015021,cheadle westgatley,stockport,LDem,LDem
+E05015022,davenportcale green,stockport,Lab,Lab
+E05015023,edgeley,stockport,IndGrp,IndGrp
+E05015024,hazel grove,stockport,LDem,LDem
+E05015025,heald green,stockport,Ind,Ind
+E05015026,heatons north,stockport,Lab,Lab
+E05015027,heatons south,stockport,Lab,Lab
+E05015028,manor,stockport,Lab,Lab
+E05015029,marple north,stockport,LDem,LDem
+E05015030,marple southhigh lane,stockport,LDem,LDem
+E05015031,norburywoodsmoor,stockport,LDem,LDem
+E05015032,offerton,stockport,LDem,LDem
+E05015033,reddish north,stockport,Lab,Lab
+E05015034,reddish south,stockport,Grn,Grn
+E05013187,amberleywoodchester,stroud,Lab,Grn
+E05010969,berkeley vale,stroud,Con,Con
+E05013188,bisley,stroud,Grn,Grn
+E05013212,cainscross,stroud,Lab,Lab
+E05010972,cam east,stroud,Con,Lab
+E05010973,cam west,stroud,Con,Lab
+E05013189,chalford,stroud,Grn,Grn
+E05010975,coaleyuley,stroud,Grn,Grn
+E05010976,dursley,stroud,Lab,Lab
+E05013191,kingswood,stroud,LDem,LDem
+E05013192,minchinhampton,stroud,Grn,Grn
+E05013193,nailsworth,stroud,Lab,Lab
+E05010981,painswickupton,stroud,Con,Grn
+E05010982,randwick whiteshillruscombe,stroud,Grn,Grn
+E05013194,rodborough,stroud,Lab,Lab
+E05010986,stroud central,stroud,Grn,Lab
+E05010987,stroud farmhillpaganhill,stroud,Con,Lab
+E05010988,stroud slade,stroud,Lab,Grn
+E05013197,stroud trinity,stroud,Grn,Grn
+E05010990,stroud uplands,stroud,Lab,Lab
+E05010991,stroud valley,stroud,Grn,Grn
+E05010992,the stanleys,stroud,Con,Grn
+E05013198,thrupp,stroud,Grn,Grn
+E05013199,wottonunderedge,stroud,LDem,LDem
+E05001153,barnes,sunderland,Con,Lab
+E05001154,castle,sunderland,Lab,Lab
+E05001155,copt hill,sunderland,Lab,Lab
+E05001156,doxford,sunderland,LDem,LDem
+E05001157,fulwell,sunderland,Con,Con
+E05001158,hendon,sunderland,LDem,Lab
+E05001159,hetton,sunderland,Lab,Lab
+E05001160,houghton,sunderland,Lab,Lab
+E05001161,millfield,sunderland,LDem,LDem
+E05001162,pallion,sunderland,LDem,LDem
+E05001163,redhill,sunderland,Lab,Lab
+E05001164,ryhope,sunderland,Con,Lab
+E05001169,sandhill,sunderland,LDem,LDem
+E05001170,shiney row,sunderland,Lab,Lab
+E05001171,silksworth,sunderland,Lab,Lab
+E05001172,southwick,sunderland,Lab,Lab
+E05001165,st annes,sunderland,Con,Lab
+E05001166,st chads,sunderland,Con,Con
+E05001167,st michaels,sunderland,Con,Con
+E05001168,st peters,sunderland,Con,Lab
+E05001173,washington central,sunderland,Lab,Lab
+E05001174,washington east,sunderland,Lab,Lab
+E05001175,washington north,sunderland,Lab,Lab
+E05001176,washington south,sunderland,Con,Lab
+E05001177,washington west,sunderland,Lab,Lab
+E05013762,st helier west,sutton,Lab,Con
+E05010755,blunsdonhighworth,swindon,Con,Con
+E05008954,central,swindon,Con,Lab
+E05008956,covinghamdorcan,swindon,Con,Con
+E05008957,eastcott,swindon,Lab,Lab
+E05008958,gorse hillpinehurst,swindon,Lab,Lab
+E05010756,haydon wick,swindon,Con,Lab
+E05008960,liden eldenepark south,swindon,Con,Lab
+E05008961,lydiardfreshbrook,swindon,Con,Lab
+E05008962,manningtonwestern,swindon,Lab,Lab
+E05008963,old town,swindon,Lab,Lab
+E05010757,penhillupper stratton,swindon,Con,Lab
+E05008965,priory vale,swindon,Con,Lab
+E05008966,ridgeway,swindon,Con,Con
+E05008967,rodbourne cheney,swindon,Con,Lab
+E05008970,shaw,swindon,Con,Lab
+E05008968,st andrews,swindon,Con,Con
+E05008969,st margaretsouth marston,swindon,Con,Lab
+E05008971,walcotpark north,swindon,Lab,Lab
+E05008972,wroughtonwichelstowe,swindon,Con,Con
+E05014519,ashton hurst,tameside,Lab,Lab
+E05014520,ashton st michaels,tameside,Lab,Lab
+E05014521,ashton waterloo,tameside,Lab,Lab
+E05014522,audenshaw,tameside,Lab,Lab
+E05014523,denton north east,tameside,Lab,Lab
+E05014524,denton south,tameside,Lab,Lab
+E05014525,denton west,tameside,Lab,Lab
+E05014526,droylsden east,tameside,Lab,Lab
+E05014527,droylsden west,tameside,Lab,Lab
+E05014528,dukinfield,tameside,Lab,Lab
+E05014529,dukinfield stalybridge,tameside,Lab,Lab
+E05014530,hyde godley,tameside,Lab,Con
+E05014531,hyde newton,tameside,Lab,Lab
+E05014532,hyde werneth,tameside,Con,Con
+E05014533,longdendale,tameside,Lab,Lab
+E05014534,mossley,tameside,Lab,Lab
+E05014535,st peters,tameside,Lab,Ind
+E05014536,stalybridge north,tameside,Lab,Ind
+E05014537,stalybridge south,tameside,Con,Con
+E05007066,amington,tamworth,Con,Lab
+E05007067,belgrave,tamworth,Con,Lab
+E05007068,bolehall,tamworth,Con,Lab
+E05007069,castle,tamworth,Con,Lab
+E05007070,glascote,tamworth,Con,Lab
+E05007071,mercian,tamworth,Con,Lab
+E05007072,spital,tamworth,Con,Lab
+E05007073,stonydelph,tamworth,Con,Lab
+E05007074,trinity,tamworth,Con,Con
+E05007075,wilnecote,tamworth,Con,Lab
+E05011893,ashburtonbuckfastleigh,teignbridge,LDem,LDem
+E05009425,abbots langleybedmond,three rivers,LDem,LDem
+E05009426,carpenders park,three rivers,Con,Con
+E05009427,chorleywood northsarratt,three rivers,Con,Con
+E05009428,chorleywood southmaple cross,three rivers,LDem,LDem
+E05009429,dickinsons,three rivers,LDem,Grn
+E05009430,durrants,three rivers,LDem,LDem
+E05009431,gade valley,three rivers,LDem,LDem
+E05009432,leavesden,three rivers,LDem,LDem
+E05009433,moor parkeastbury,three rivers,Con,Con
+E05009434,oxhey hallhayling,three rivers,LDem,LDem
+E05009435,pennmill end,three rivers,LDem,LDem
+E05009436,rickmansworth town,three rivers,Con,Con
+E05009437,south oxhey,three rivers,Lab,Lab
+E05002229,aveleyuplands,thurrock,Con,Lab
+E05002230,belhus,thurrock,Con,Lab
+E05002231,chadwell st mary,thurrock,Con,Lab
+E05002232,chaffordnorth stifford,thurrock,Con,Lab
+E05002233,corringhamfobbing,thurrock,Con,Ind
+E05002234,east tilbury,thurrock,Con,Ind
+E05002235,grays riverside,thurrock,Lab,Lab
+E05002236,grays thurrock,thurrock,Lab,Lab
+E05002237,little thurrock blackshots,thurrock,Con,Lab
+E05002239,ockendon,thurrock,Con,Lab
+E05002240,orsett,thurrock,Con,Con
+E05002241,south chafford,thurrock,Con,Lab
+E05002242,stanford eastcorringham town,thurrock,Con,Ind
+E05002243,stanfordlehope west,thurrock,Con,Ind
+E05002245,the homesteads,thurrock,Con,Lab
+E05002247,tilbury st chads,thurrock,Lab,Lab
+E05002248,west thurrocksouth stifford,thurrock,Lab,Lab
+E05011918,bideford north,torridge,Grn,LDem
+E05015239,altrincham,trafford,Grn,Grn
+E05015240,ashton upon mersey,trafford,Lab,Lab
+E05015241,bowdon,trafford,Con,Con
+E05015242,broadheath,trafford,Lab,Lab
+E05015243,brooklands,trafford,Lab,Lab
+E05015244,bucklowst martins,trafford,Lab,Lab
+E05015245,davyhulme,trafford,Lab,Lab
+E05015246,flixton,trafford,Lab,Lab
+E05015247,gorse hillcornbrook,trafford,Lab,Lab
+E05015248,hale,trafford,Grn,Grn
+E05015249,hale barnstimperley south,trafford,Con,Con
+E05015250,longford,trafford,Lab,Lab
+E05015251,lostockbarton,trafford,Lab,Lab
+E05015252,manor,trafford,Con,Lab
+E05015253,old trafford,trafford,Lab,Lab
+E05015254,sale central,trafford,Lab,Lab
+E05015255,sale moor,trafford,Lab,Lab
+E05015256,stretfordhumphrey park,trafford,Lab,Lab
+E05015257,timperley central,trafford,LDem,LDem
+E05015258,timperley north,trafford,LDem,LDem
+E05015259,urmston,trafford,Lab,Lab
+E05001444,ackworth north elmsallupton,wakefield,Con,Lab
+E05001445,airedaleferry fryston,wakefield,Lab,Lab
+E05001446,altoftswhitwood,wakefield,Lab,Lab
+E05001447,castleford centralglasshoughton,wakefield,Lab,Lab
+E05001448,crofton ryhillwalton,wakefield,Con,Lab
+E05001449,featherstone,wakefield,Lab,Lab
+E05001450,hemsworth,wakefield,Lab,Lab
+E05001451,horburysouth ossett,wakefield,Lab,Lab
+E05001452,knottingley,wakefield,LDem,LDem
+E05001453,normanton,wakefield,Lab,Lab
+E05001454,ossett,wakefield,Con,Lab
+E05001455,pontefract north,wakefield,Lab,Lab
+E05001456,pontefract south,wakefield,Con,Lab
+E05001457,south elmsallsouth kirkby,wakefield,Lab,Lab
+E05001458,stanleyoutwood east,wakefield,Lab,Lab
+E05001459,wakefield east,wakefield,Con,Lab
+E05001460,wakefield north,wakefield,Lab,Lab
+E05001461,wakefield rural,wakefield,Con,Lab
+E05001462,wakefield south,wakefield,Con,Lab
+E05001463,wakefield west,wakefield,Lab,Lab
+E05001464,wrenthorpeoutwood west,wakefield,Con,Lab
+E05001301,aldridge centralsouth,walsall,Con,Con
+E05001302,aldridge northwalsall wood,walsall,Con,Con
+E05001303,bentleydarlaston north,walsall,Lab,Lab
+E05001304,birchills leamore,walsall,Con,Con
+E05001305,blakenall,walsall,Ind,Ind
+E05001306,bloxwich east,walsall,Con,Con
+E05001307,bloxwich west,walsall,Con,Lab
+E05001308,brownhills,walsall,Con,Con
+E05001309,darlaston south,walsall,Lab,Lab
+E05001310,paddock,walsall,Con,Con
+E05001311,palfrey,walsall,Lab,Ind
+E05001312,pelsall,walsall,Con,Con
+E05001313,pheasey park farm,walsall,Con,Con
+E05001314,pleck,walsall,Lab,Ind
+E05001315,rushallshelfield,walsall,Lab,Con
+E05001317,short heath,walsall,Con,Con
+E05001316,st matthews,walsall,Lab,Lab
+E05001318,streetly,walsall,Con,Con
+E05001319,willenhall north,walsall,Con,Con
+E05001320,willenhall south,walsall,Lab,Lab
+E05014030,west putney,wandsworth,Lab,Con
+E05011024,appleton,warrington,Con,LDem
+E05011025,bewseywhitecross,warrington,Lab,Lab
+E05011026,birchwood,warrington,Lab,Lab
+E05011027,burtonwoodwinwick,warrington,Lab,Lab
+E05011028,chapelfordold hall,warrington,Lab,Lab
+E05011029,culcheth glazeburycroft,warrington,Con,Lab
+E05011030,fairfieldhowley,warrington,Lab,Lab
+E05011031,grappenhall,warrington,LDem,LDem
+E05011032,great sankey northwhittle hall,warrington,Lab,Lab
+E05011033,great sankey south,warrington,Lab,Lab
+E05011034,latchford east,warrington,Lab,Lab
+E05011035,latchford west,warrington,Lab,Lab
+E05011036,lymm norththelwall,warrington,LDem,LDem
+E05011037,lymm south,warrington,Con,LDem
+E05011038,orford,warrington,Lab,Lab
+E05011039,penkethcuerdley,warrington,Ind,Ind
+E05011040,poplarshulme,warrington,Lab,Lab
+E05011041,poulton north,warrington,Lab,Lab
+E05011042,poulton south,warrington,Lab,Lab
+E05011043,rixtonwoolston,warrington,Con,Con
+E05011044,stockton heath,warrington,LDem,LDem
+E05011045,westbrook,warrington,Lab,Lab
+E05012622,leamington clarendon,warwick,Lab,Lab
+E05011046,callowland,watford,Lab,LDem
+E05011047,central,watford,LDem,LDem
+E05011048,holywell,watford,Lab,Lab
+E05011049,leggatts,watford,Con,LDem
+E05011050,meriden,watford,LDem,LDem
+E05011051,nascot,watford,LDem,LDem
+E05011052,oxhey,watford,LDem,LDem
+E05011053,park,watford,LDem,LDem
+E05011054,stanborough,watford,LDem,LDem
+E05011055,tudor,watford,LDem,LDem
+E05011056,vicarage,watford,Lab,LDem
+E05011057,woodside,watford,LDem,LDem
+E05015168,milfordwitley,waverley,Res,LDem
+E05011058,brookmans parklittle heath,welwyn hatfield,Con,Con
+E05011059,haldens,welwyn hatfield,Con,Lab
+E05011060,handside,welwyn hatfield,Con,LDem
+E05011061,hatfield central,welwyn hatfield,Con,Lab
+E05011062,hatfield east,welwyn hatfield,Con,Lab
+E05011063,hatfield south west,welwyn hatfield,Con,Lab
+E05011064,hatfield villages,welwyn hatfield,Con,Lab
+E05011065,hollybush,welwyn hatfield,Con,Lab
+E05011066,howlands,welwyn hatfield,Con,Lab
+E05011067,northawcuffley,welwyn hatfield,Con,Con
+E05011068,panshanger,welwyn hatfield,Con,LDem
+E05011069,peartree,welwyn hatfield,LDem,LDem
+E05011070,sherrards,welwyn hatfield,LDem,Lab
+E05011071,welham greenhatfield south,welwyn hatfield,LDem,LDem
+E05011072,welwyn east,welwyn hatfield,Con,Con
+E05011073,welwyn west,welwyn hatfield,Con,Con
+E05010565,tavistock north,west devon,Ind,LDem
+E05014929,aughtonholborn,west lancashire,Lab,Lab
+E05014930,burscough bridgerufford,west lancashire,Con,IndGrp
+E05014931,burscough town,west lancashire,Lab,Lab
+E05014932,north meolshesketh bank,west lancashire,Con,Con
+E05014933,old skelmersdale,west lancashire,Lab,Lab
+E05014934,ormskirk east,west lancashire,Lab,IndGrp
+E05014935,ormskirk west,west lancashire,Lab,Lab
+E05014936,rural north east,west lancashire,Con,Con
+E05014937,rural south,west lancashire,IndGrp,IndGrp
+E05014938,rural west,west lancashire,Con,Con
+E05014939,skelmersdale north,west lancashire,Lab,Lab
+E05014940,skelmersdale south,west lancashire,Lab,Lab
+E05014941,tanhouseskelmersdale town centre,west lancashire,Lab,Lab
+E05014942,tarleton village,west lancashire,Con,Con
+E05014943,up holland,west lancashire,Lab,Lab
+E05010781,chadlingtonchurchill,west oxfordshire,Con,LDem
+E05010782,charlburyfinstock,west oxfordshire,LDem,LDem
+E05006637,chipping norton,west oxfordshire,Lab,Lab
+E05006639,eynshamcassington,west oxfordshire,LDem,LDem
+E05006640,freelandhanborough,west oxfordshire,Con,Con
+E05010783,hailey minster lovellleafield,west oxfordshire,Con,LDem
+E05006642,kingham rollrightenstone,west oxfordshire,Con,Con
+E05006643,miltonunderwychwood,west oxfordshire,Con,LDem
+E05006644,north leigh,west oxfordshire,Con,Con
+E05006645,standlake astonstanton harcourt,west oxfordshire,Con,LDem
+E05006646,stonesfieldtackley,west oxfordshire,LDem,Grn
+E05006648,witney central,west oxfordshire,Lab,Lab
+E05006649,witney east,west oxfordshire,Lab,Lab
+E05006650,witney north,west oxfordshire,Grn,Grn
+E05006651,witney south,west oxfordshire,Con,Lab
+E05006652,witney west,west oxfordshire,Con,Con
+E05006653,woodstockbladon,west oxfordshire,LDem,LDem
+E05014226,grangecartmel,westmorlandfurness,LDem,LDem
+E05014989,abram,wigan,Lab,Lab
+E05014990,ashtoninmakerfield south,wigan,Lab,Lab
+E05014991,aspull new springswhelley,wigan,Lab,Lab
+E05014992,astley,wigan,Lab,Lab
+E05014993,atherton north,wigan,IndGrp,IndGrp
+E05014994,atherton southlilford,wigan,Lab,Lab
+E05014995,bryn with ashtoninmakerfield north,wigan,Ind,Ind
+E05014996,douglas,wigan,Lab,Lab
+E05014997,golbornelowton west,wigan,Lab,Lab
+E05014998,hindley,wigan,Lab,Lab
+E05014999,hindley green,wigan,Ind,Lab
+E05015000,ince,wigan,Ind,Ind
+E05015001,leigh centralhigher folds,wigan,Lab,Lab
+E05015002,leigh south,wigan,Lab,Lab
+E05015003,leigh west,wigan,Lab,Lab
+E05015004,lowton east,wigan,Lab,Lab
+E05015005,orrell,wigan,Lab,Lab
+E05015006,pemberton,wigan,Lab,Lab
+E05015007,shevington with lower groundmoor,wigan,Lab,Lab
+E05015008,standish with langtree,wigan,Lab,Lab
+E05015009,tyldesleymosley common,wigan,Lab,IndGrp
+E05015010,wigan central,wigan,Lab,Lab
+E05015011,wigan west,wigan,Lab,Lab
+E05015012,winstanley,wigan,Lab,Lab
+E05015013,worsley mesnes,wigan,Lab,Lab
+E05010995,alresforditchen valley,winchester,Con,LDem
+E05010996,badger farmolivers battery,winchester,Con,Con
+E05010997,bishops waltham,winchester,Con,LDem
+E05010998,central meon valley,winchester,Grn,Grn
+E05011000,denmead,winchester,Con,LDem
+E05011006,southwickwickham,winchester,LDem,LDem
+E05011001,st barnabas,winchester,LDem,LDem
+E05011002,st bartholomew,winchester,LDem,LDem
+E05011003,st luke,winchester,Con,LDem
+E05011004,st michael,winchester,LDem,LDem
+E05011005,st paul,winchester,LDem,LDem
+E05011007,the worthys,winchester,LDem,LDem
+E05011009,whiteleyshedfield,winchester,LDem,LDem
+E05011010,wonstonmicheldever,winchester,Con,Con
+E05010795,byfleetwest byfleet,woking,Con,Ind
+E05010796,canalside,woking,Lab,LDem
+E05010797,goldsworth park,woking,LDem,LDem
+E05010798,heathlands,woking,Con,LDem
+E05010799,hoe valley,woking,LDem,LDem
+E05010800,horsell,woking,LDem,LDem
+E05010801,knaphill,woking,Con,LDem
+E05010802,mount hermon,woking,LDem,LDem
+E05010803,pyrford,woking,Con,LDem
+E05010804,st johns,woking,LDem,LDem
+E05014838,bilston north,wolverhampton,Lab,Lab
+E05014839,bilston south,wolverhampton,Lab,Lab
+E05014840,blakenhall,wolverhampton,Lab,Lab
+E05014841,bushbury north,wolverhampton,Con,Con
+E05014842,bushbury southlow hill,wolverhampton,Lab,Lab
+E05014843,east park,wolverhampton,Lab,Lab
+E05014844,ettingshall north,wolverhampton,Lab,Lab
+E05014845,ettingshall southspring vale,wolverhampton,Lab,Lab
+E05014846,fallings park,wolverhampton,Lab,Lab
+E05014847,graiseley,wolverhampton,Lab,Lab
+E05014848,heath town,wolverhampton,Lab,Lab
+E05014849,merry hill,wolverhampton,Con,Lab
+E05014850,oxley,wolverhampton,Lab,Lab
+E05014851,park,wolverhampton,Lab,Lab
+E05014852,penn,wolverhampton,Con,Con
+E05014853,st peters,wolverhampton,Lab,Lab
+E05014854,tettenhall regis,wolverhampton,Con,Con
+E05014855,tettenhall wightwick,wolverhampton,Con,Con
+E05014856,wednesfield north,wolverhampton,Lab,Lab
+E05014857,wednesfield south,wolverhampton,Lab,Lab
+E05007880,arboretum,worcester,Grn,Grn
+E05007881,battenhall,worcester,Grn,Grn
+E05007883,cathedral,worcester,Lab,Lab
+E05007884,claines,worcester,Con,LDem
+E05007886,nunnery,worcester,Con,Lab
+E05007887,rainbow hill,worcester,Lab,Lab
+E05007888,st clement,worcester,Con,Grn
+E05007890,st peters parish,worcester,Con,Grn
+E05007891,st stephen,worcester,Grn,Grn
+E05007694,broadwater,worthing,Lab,Lab
+E05007695,castle,worthing,Con,Lab
+E05007696,central,worthing,Lab,Lab
+E05007697,durrington,worthing,Con,Con
+E05007698,gaisford,worthing,Lab,Lab
+E05007699,goring,worthing,Con,Grn
+E05007700,heene,worthing,Lab,Lab
+E05007701,marine,worthing,Lab,Lab
+E05007702,northbrook,worthing,Con,Lab
+E05007703,offington,worthing,Con,Con
+E05007704,salvington,worthing,Con,Con
+E05007705,selden,worthing,Lab,Lab
+E05007706,tarring,worthing,LDem,Lab
