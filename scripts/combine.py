@@ -8,7 +8,7 @@ population_data = pd.read_csv("data/population.csv")
 
 # Load the deprivation data from the Excel file
 deprivation_data = pd.read_excel(
-    "source/deprivation.xlsx", sheet_name="UK_IMD_E", usecols=["lsoa", "UK_IMD_E_score"]
+    "data/deprivation.xlsx", sheet_name="UK_IMD_E", usecols=["lsoa", "UK_IMD_E_score"]
 )
 
 # Merge the lookup table with the population data
@@ -53,27 +53,5 @@ ward_deprivation_code = (
     )
 )
 
-ward_deprivation_name = (
-    merged_data[merged_data["Ward_Name"].notna()]
-    .groupby(["Ward_Name"], as_index=False)
-    .apply(
-        lambda x: pd.Series(
-            {
-                "Ward_Code": "",
-                "Ward_Name": x["Ward_Name"].iloc[0],
-                "Deprivation Score": (
-                    x["weighted_population"] * x["UK_IMD_E_score"]
-                ).sum()
-                / x["weighted_population"].sum(),
-            }
-        )
-    )
-)
-
-# Combine the results
-ward_deprivation = pd.concat(
-    [ward_deprivation_code, ward_deprivation_name], ignore_index=True
-)
-
 # Save the result to a new CSV file
-ward_deprivation.to_csv("output/ward_deprivation.csv", index=False)
+ward_deprivation_code.to_csv("output/ward_deprivation.csv", index=False)
