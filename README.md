@@ -26,13 +26,3 @@ Election results data are sourced from:
 Ward boundary data is obtained from:
 
 -   [OS Data Hub - Boundary Line](https://osdatahub.os.uk/downloads/open/BoundaryLine)
-
-## Scripts
-
-### lookup.py
-
-Performs spatial joins between small areas and wards to create a lookup table. It calculates the overlap between areas and outputs the results in a CSV file.
-
-### match.py
-
-Processes election results from two sources, cleans and merges them based on ward names and local authority. Outputs a CSV file with the merged results.
